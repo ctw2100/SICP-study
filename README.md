@@ -1,1 +1,2 @@
-# SICP-study
+## SICP
+### This project include some of my exercises from book SICP...
